@@ -7,7 +7,7 @@
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
-bash <(wget -qO- https://github.com/ruck18/Painel-SSH4g/raw/main/painelwv5/ubuinst.sh)
+bash <(wget -qO- https://github.com/ruck18/Painel-SSH4g/raw/main/ubuinst.sh)
 ```
 
 # 🔑CHAVE DE INSTALAÇÃO:
@@ -19,7 +19,7 @@ pulse4g
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-SSH4g/raw/main/painelwv5/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-SSH4g/raw/main/sincpainel.sh)
 ```
 
 # 🚀IMAGENS DO PAINEL:
