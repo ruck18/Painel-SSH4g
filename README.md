@@ -24,10 +24,10 @@ apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-SSH4g/raw
 
 # 🚀IMAGENS DO PAINEL:
 
-![Screenshot_23](https://user-images.githubusercontent.com/105602625/195569074-79159686-6844-4078-a7c5-8ffd8d15cc43.jpg)
+![Screenshot_23](https://i.postimg.cc/4xsFzxJD/Screenshot-1.png)
 
-![Screenshot_1](https://user-images.githubusercontent.com/105602625/195569106-32bfbd55-830c-492d-92b2-452bd5132da5.jpg)
+![Screenshot_1](https://i.postimg.cc/R08RbSBV/Screenshot-2.png)
 
-![Screenshot_2](https://user-images.githubusercontent.com/105602625/195569126-7334db72-c314-4989-a755-c6c7bf949401.jpg)
+
 
 
